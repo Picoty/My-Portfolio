@@ -22,4 +22,4 @@ This portfolio is built using the following technologies:
 * **Netlify:** Hosting service for deploying and managing the website.
 
 ## URL
-(https://picoty-portfolio.netlify.app/)[picoty-portfolio]
+[picoty-portfolio](https://picoty-portfolio.netlify.app/)
